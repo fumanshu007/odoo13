@@ -1,0 +1,5 @@
+.o_web_client .o_price_check {
+    &.o_is_custom {
+        color: theme-color("success");
+    }
+}
